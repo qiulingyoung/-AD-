@@ -1,17 +1,5 @@
 # 阿尔茨海默病（AD）研究
-包括以下主题：
-1. 多模态数据整合与深度学习在阿尔茨海默病早期诊断中的应用
-2. 基于生成对抗网络（GAN）的阿尔茨海默病影像合成与数据扩增
-4. 阿尔茨海默病的个性化治疗预测模型
-5. 强化学习在阿尔茨海默病患者护理路径优化中的应用
-这些研究主题结合了AD早期诊断、数据扩增、语言分析、个性化治疗和智能护理路径优化等热点领域，具有填补现有研究空白的潜力，并为阿尔茨海默病的临床管理和治疗提供了创新思路。
+AI - Driven Multimodal Framework: Advancing Alzheimer's Early Detection, Subtyping, and Understanding
 
-# Contributing
-
-# License
-
-# Acknowledgments
-
-# Contact Information: 
-
-# Changelog
+Tremendous advancements in neuroimaging, genomics, and biomarker technologies have enabled us to capture various characteristics of brain diseases in living patients. Collecting multimodal data from large patient databases allows for a comprehensive understanding of brain lesions, biological processes, genetic risk factors, and symptoms.
+The aim of this study is to construct Alzheimer's disease models for multimodal patients based on appropriate data-driven approaches. To this end, new data representation and statistical learning methods are developed, which can integrate multiple types of data: neuroimaging, peripheral biomarkers, clinical, and omics data (genetics, transcriptomics). Specifically, some methods are developed to highlight the interaction networks among multiple data sources, track the changes in data during the disease progression, and automatically predict the current or future clinical outcomes based on this data. These models are applied to Alzheimer's disease. These models will deepen the understanding of nervous system diseases and facilitate the development of novel decision support systems for diagnosis, prognosis, and clinical trial design.
